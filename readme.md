@@ -2,7 +2,7 @@ Proyecto 1
 
 Acosta Aguilar Angel Gabriel 
 Lopez Mendoza Angel 
-Andrade Hernández Bruno A.
+Andrade Hernández Bruno A
 Valencia Arevalo Luis Eduardo 
 
 1 Define El Proyecto 
@@ -21,6 +21,7 @@ función(placa←/→motor)
 función("El motor se mueve"  motor←/→engranes)
 int engranes
 sistem.out.printl("El robot se mueve")
+}
 
 5 Define los componentes 
 Placa solar:Está es la encargada de dar la energía al robot.
